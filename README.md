@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### Welcome to my profile!
+I am currently learning some skills at CodeOp to become a Data Scientist. I aim to develop this space to contain my portfolio of projects.
+My pronouns are she/her.
+
 <!--
 **laura1machado1delostoyos/laura1machado1delostoyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
