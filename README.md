@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Welcome to my profile!
-I am currently learning some skills at CodeOp to become a Data Scientist. I aim to develop this space to contain my portfolio of projects.
+I trained as a Chemist and now I am learning Data Science. I aim to develop this space to contain my portfolio of projects.
 My pronouns are she/her.
 
 <!--
